@@ -3,4 +3,7 @@ numpy
 scikit-learn
 matplotlib
 seaborn
+joblib
+xgboost
+imbalanced-learn
 ipykernel
