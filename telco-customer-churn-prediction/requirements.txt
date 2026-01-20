@@ -6,4 +6,5 @@ seaborn
 joblib
 xgboost
 imbalanced-learn
+warnings
 ipykernel
